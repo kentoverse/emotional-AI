@@ -4,7 +4,7 @@ import { HomePageAttributes } from '@/src/types';
 export default function Page() {
   const pageData: HomePageAttributes = {
     greeting: 'Hey Authentic Intelligent Beings,',
-    title: 'Welcome to Emotional AI',
+    title: 'Emotional AI will Launch Soon!',
     subtitle: 'The Emotional AI project aims to create a versatile platform for introspection and emotional analysis, serving as an API server and providing an admin UI for data management. Future plans include a cross-platform mobile version for public users. By leveraging IBM InspectorRAGet, we benefit from its proven framework, advanced metrics, scalability, integration capabilities, and robust community support, making it an ideal foundation for a sophisticated AI solution. ',
     subtitleLink: {
       content: 'Learn More',
