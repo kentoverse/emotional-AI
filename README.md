@@ -2,15 +2,17 @@
 
 ## Overview
 
-The Emotional AI project aims to create a comprehensive platform for introspection and emotional analysis. The project is structured to serve multiple purposes, including acting as an API server, providing an admin UI for data management and analysis, and planning for future expansion to include a cross-platform mobile version for public users.
+The "Emotional AI" project aims to create a comprehensive platform for introspection and emotional analysis. The project is structured to serve multiple purposes, including acting as an API server, providing an admin UI for data management and analysis, and planning for future expansion to include a cross-platform mobile version for public users.
 
-In-developement Pubic View - [www.kentoverse.com](https://www.kentoverse.com).
+Project In-development, please visit - [www.kentoverse.com](https://www.kentoverse.com).
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
 Authored by MOCavada, the soon-to-be-published book “Emotional AI” explores the intricacies of human connections through the lens of artificial intelligence and introspection. The book introduces a theory based on MOCavada’s personal experiences, known as the “3 Constants of Human Connection,” which outlines fundamental elements that govern human interactions and relationships.
 
-The book premise aligns with the goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections.
+The book premise aligns with the goal to create an introspective guide and incorporate AI's latest capabilities to support users in understanding and improving their connections.
+
+**Important Note: Emotional AI stands for Emotional Authentic Intelligence. We are not building an AI that mimics human emotions, which is impossible. Instead, our focus is on creating tools that help users introspect and understand their own emotions and interactions authentically.**
 
 These 3 constants are:
 
@@ -100,7 +102,7 @@ OpenAI can be used to implement and enhance the introspection algorithm by refer
    - **Moments**: It helps the user connect the interaction to past experiences, present awareness, and future possibilities.
 3. **Output**: The model generates an introspective response, helping the user understand their actions and emotions better.
 
-By leveraging OpenAI’s capabilities, you can create an effective and engaging introspection tool that aligns with the 3 Constants of Human Connections, providing users with meaningful insights and guidance.
+By combining IBM InspectorRAGet for robust data analysis and OpenAI for dynamic user interaction and introspection, you can create a powerful and comprehensive Emotional AI platform that provides meaningful insights and guidance to users. This synergy ensures that the strengths of both platforms are utilized to their fullest potential, without conflict.
 
 ## Project Structure
 
