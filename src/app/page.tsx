@@ -5,7 +5,7 @@ export default function Page() {
   const pageData: HomePageAttributes = {
     greeting: 'Hi Authentic Intellectual Beings,',
     title: 'Welcome to "Emotional AI"',
-    subtitle: 'The Emotional AI project aims to create a comprehensive platform for introspection and emotional analysis. The project is structured to serve multiple purposes, including acting as an API server, providing an admin UI for data management and analysis, and planning for future expansion to include a cross-platform mobile version for public users. Using IBM InspectorRAGet as the base for building our AI data model offers significant advantages, including a proven framework, advanced metrics, scalability, integration capabilities, and strong community support. These benefits make it an ideal foundation for developing a sophisticated and effective AI solution.',
+    subtitle: 'The Emotional AI project aims to create a versatile platform for introspection and emotional analysis, serving as an API server and providing an admin UI for data management. Future plans include a cross-platform mobile version for public users. By leveraging IBM InspectorRAGet, we benefit from its proven framework, advanced metrics, scalability, integration capabilities, and robust community support, making it an ideal foundation for a sophisticated AI solution. ',
     subtitleLink: {
       content: 'Learn More',
       href: 'https://github.com/kentoverse/emotional-AI',
