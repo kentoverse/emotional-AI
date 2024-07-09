@@ -6,7 +6,7 @@ The Emotional AI project aims to create a comprehensive platform for introspecti
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
-Authored by MOCavada, the soon-to-be-published book "Emotional AI" explores the intricacies of human connections through the lens of artificial intelligence and introspection. The book introduces a groundbreaking theory known as the "3 Constants of Human Connection," which outlines fundamental elements that govern human interactions and relationships. These constants are:
+Authored by MOCavada, the soon-to-be-published book “Emotional AI” explores the intricacies of human connections through the lens of artificial intelligence and introspection. The book introduces a theory based on MOCavada’s personal experiences, known as the “3 Constants of Human Connection,” which outlines fundamental elements that govern human interactions and relationships. These constants are:
 
 1. **Change (Dynamics of Interaction)**: This constant highlights the dynamic nature of relationships, emphasizing the importance of actions (Act), reactions (React), and attractions (Attract) in shaping human connections.
 
