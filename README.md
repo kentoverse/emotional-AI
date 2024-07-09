@@ -1,4 +1,5 @@
 # Emotional AI Project
+by MOCavada
 
 ## Overview
 
