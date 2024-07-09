@@ -6,13 +6,44 @@ The Emotional AI project aims to create a comprehensive platform for introspecti
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
-Authored by MOCavada, the soon-to-be-published book "Emotional AI" explores the intricacies of human connections through the lens of artificial intelligence and introspection. The book introduces a theory formulated by the author known as the "3 Constants of Human Connection," which outlines fundamental elements that govern human interactions and relationships. These constants are:
+Authored by MOCavada, the soon-to-be-published book "Emotional AI" explores the intricacies of human connections through the lens of artificial intelligence and introspection. The book introduces a groundbreaking theory known as the "3 Constants of Human Connection," which outlines fundamental elements that govern human interactions and relationships. These constants are:
 
-1. **Change**: This constant highlights the dynamic nature of relationships, emphasizing the importance of actions (Act), reactions (React), and attractions (Attract) in shaping human connections.
+1. **Change (Dynamics of Interaction)**: This constant highlights the dynamic nature of relationships, emphasizing the importance of actions (Act), reactions (React), and attractions (Attract) in shaping human connections.
 
-2. **Power**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
+2. **Power (Attracts Influence and Effects)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
 
-3. **Moment**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+3. **Moments (Connections of Our Lifetime)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+
+## Purpose
+
+To create an app that guides users through introspection using “The 3 Constants of Human Connection.” This app will teach users how to understand their interactions, the influences of these interactions, and the underlying causes rooted in their past, present, and future experiences.
+
+## Steps in the Introspection Process
+
+1. **Dynamics of Change (1st Constant - Interactions)**
+   - **Act**: This is the initial interaction, which could be a new connection or an unexpected reaction. For example, instead of directly answering a difficult question, one might change the topic but later create a connection by discussing related concepts.
+   - **React**: The response to the initial act, which ignites subsequent interactions and creates a coherent narrative that grows over time.
+   - **Attract**: The aspects that attract after the interaction, influencing future connections.
+
+2. **Influences of Attract (2nd Constant: Power)**
+   - **Negative Effects**: The detrimental impacts that an interaction can have.
+   - **Positive Effects**: The beneficial impacts that enhance the connection.
+   - **No Effect or Balance (State of Equanimity)**: Situations where the interaction maintains a neutral balance, neither positively nor negatively affecting the relationship.
+
+3. **When Effects Manifest and Childhood Influences (3rd Constant - Time)**
+   - **Past Reflections**: Delving into past memories, including stages of marriage, to understand how positive and negative effects influenced connections or disconnections.
+   - **Future Insights or Forecasts**: Predicting how current actions and reactions might shape future interactions and connections.
+   - **Present Awareness**: Understanding the current state and its immediate influences on actions and reactions.
+
+## Application of Emotional AI
+
+The AI component of the app will assist users in:
+
+- **Analyzing their interactions (Act, React, Attract)**
+- **Understanding the influences of these interactions (Negative, Positive, Balanced)**
+- **Reflecting on past experiences, forecasting future outcomes, and maintaining present awareness**
+
+The premise aligns with your goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections.
 
 ## Project Structure
 
