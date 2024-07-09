@@ -18,7 +18,7 @@ export default function Page() {
         href: '/visualize',
         actionText: 'Try it out',
         tag: null,
-        icon: 'CHART_MULTITYPE',
+        icon: 'CHART_MULTITYPE', // Must match one of the specific string literals
         openInNewTab: false,
       },
       {
@@ -27,7 +27,7 @@ export default function Page() {
         href: '/examples',
         actionText: 'Explore',
         tag: null,
-        icon: 'MICROSCOPE',
+        icon: 'MICROSCOPE', // Must match one of the specific string literals
         openInNewTab: false,
       },
       {
@@ -36,7 +36,7 @@ export default function Page() {
         href: '/cookbooks',
         actionText: 'Start cooking',
         tag: 'coming soon',
-        icon: 'NOODLE_BOWL',
+        icon: 'NOODLE_BOWL', // Must match one of the specific string literals
         openInNewTab: false,
         disabled: true,
       },
@@ -46,7 +46,7 @@ export default function Page() {
         href: '/documentation',
         actionText: 'Read the docs',
         tag: 'coming soon',
-        icon: 'BOOK',
+        icon: 'BOOK', // Must match one of the specific string literals
         openInNewTab: false,
         disabled: true,
       },
