@@ -18,22 +18,11 @@ Authored by MOCavada, the soon-to-be-published book "Emotional AI" explores the 
 
 To create an app that guides users through introspection using “The 3 Constants of Human Connection.” This app will teach users how to understand their interactions, the influences of these interactions, and the underlying causes rooted in their past, present, and future experiences.
 
-## Steps in the Introspection Process
+## The Introspection Process
 
-1. **Dynamics of Change (1st Constant - Interactions)**
-   - **Act**: This is the initial interaction, which could be a new connection or an unexpected reaction. For example, instead of directly answering a difficult question, one might change the topic but later create a connection by discussing related concepts.
-   - **React**: The response to the initial act, which ignites subsequent interactions and creates a coherent narrative that grows over time.
-   - **Attract**: The aspects that attract after the interaction, influencing future connections.
-
-2. **Influences of Attract (2nd Constant: Power)**
-   - **Negative Effects**: The detrimental impacts that an interaction can have.
-   - **Positive Effects**: The beneficial impacts that enhance the connection.
-   - **No Effect or Balance (State of Equanimity)**: Situations where the interaction maintains a neutral balance, neither positively nor negatively affecting the relationship.
-
-3. **When Effects Manifest and Childhood Influences (3rd Constant - Time)**
-   - **Past Reflections**: Delving into past memories, including stages of marriage, to understand how positive and negative effects influenced connections or disconnections.
-   - **Future Insights or Forecasts**: Predicting how current actions and reactions might shape future interactions and connections.
-   - **Present Awareness**: Understanding the current state and its immediate influences on actions and reactions.
+1. **Interactions from our Need to Connect**: This step focuses on understanding the initial interactions that stem from our inherent need to connect with others.
+2. **Effects that Attract from our Interaction**: This step examines the effects that attract and influence future interactions based on our initial connections.
+3. **Effects that are Influenced by our Past**: This step delves into how past experiences and memories influence our current interactions and connections.
 
 ## Application of Emotional AI
 
@@ -43,7 +32,8 @@ The AI component of the app will assist users in:
 - **Understanding the influences of these interactions (Negative, Positive, Balanced)**
 - **Reflecting on past experiences, forecasting future outcomes, and maintaining present awareness**
 
-The premise aligns with your goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections.
+
+The book premise also aligns with our goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections.
 
 ## Project Structure
 
