@@ -40,7 +40,7 @@ The AI component of the app will assist users in:
 - **Understanding the influences of these interactions (Negative, Positive, Balanced)**
 - **Reflecting on past experiences, forecasting future outcomes, and maintaining present awareness**
 
-This updated premise aligns with your goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections.
+The book premise aligns with our goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections that foster healthier and meaningful relationships.
 
 ## Introspection Algorithms
 
