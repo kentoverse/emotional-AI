@@ -28,10 +28,12 @@ import {
   Theme,
 } from '@carbon/react';
 
+
+
 import {
   Home,
   DocumentExport,
-  Debug,
+  AiLaunch,
   LogoGithub,
   Awake,
   Asleep,
@@ -50,11 +52,11 @@ export default memo(function HeaderView() {
   const { createNotification } = useNotification();
 
   return (
-    <Header aria-label="InspectorRAGet">
+    <Header aria-label="Emotional AI">
       <Link className={classes.homeBtn} href="/">
         <Home height={'16px'} width={'16px'} />
       </Link>
-      <HeaderName prefix="">InspectorRAGet</HeaderName>
+      <HeaderName prefix="">Emotional AI</HeaderName>
       <HeaderGlobalBar>
         <HeaderGlobalAction
           aria-label={
@@ -90,15 +92,15 @@ export default memo(function HeaderView() {
           <DocumentExport size={20} />
         </HeaderGlobalAction>
         <HeaderGlobalAction
-          aria-label="Report bug"
+          aria-label="Client App"
           onClick={() => {
             window.open(
-              'https://github.com/IBM/InspectorRAGet/issues/new?assignees=&labels=&template=bug_report.md&title=',
+              'https://www.maap.one',
               '_blank',
             );
           }}
         >
-          <Debug size={20} />
+          <AiLaunch size={20} />
         </HeaderGlobalAction>
         <HeaderGlobalAction
           aria-label="Github"
