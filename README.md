@@ -21,7 +21,7 @@ These 3 constants are:
 
 2. **Power (Effects we Attract)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
 
-3. **Moments (Lifetime Influences that Connects)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+3. **Moments (Connecting the Past Influences)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
 
 ## Purpose
 
@@ -29,17 +29,17 @@ To create an app that guides users through introspection using “The 3 Constant
 
 ## The Introspection Process
 
-1. **Interactions from our Need to Connect**: This step focuses on understanding the initial interactions that stem from our inherent need to connect with others.
-2. **Effects that we Attract from our Interactions**: This step examines the effects that attract and influence future interactions based on our initial connections.
-3. **Effects that are Influenced by our Past and Present**: This step delves into how past experiences and memories influence our current interactions and connections.
+1. **Analyze the Interplay of Interactions**: This step focuses on understanding the initial interactions that stem from our inherent need to connect with others.
+2. **Visualize the Effect of Interactions**: This step examines the effects that attract and influence future interactions based on our initial connections.
+3. **Understand the Connection between Interactions and Past**: This step delves into how past experiences and memories influence our current interactions and connections.
 
 ## Application of Emotional AI
 
 The AI component of the app will assist users in:
 
 - **Analyzing their interactions (Act, React, Attract)**
-- **Understanding the influences of these interactions (Negative, Positive, Balanced)**
-- **Reflecting on past experiences, forecasting future outcomes, and maintaining present awareness**
+- **Visualizing the influences of these interactions (Negative, Positive, Balanced)**
+- **Understanding on past experiences, forecasting future outcomes, and maintaining present awareness**
 
 The book premise aligns with our goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections that foster healthier and meaningful relationships.
 
