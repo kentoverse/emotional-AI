@@ -9,7 +9,7 @@ Project In-development, please visit - [www.kentoverse.com](https://www.kentover
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
-Authored by M.O. Cavada, the soon-to-be-published book "Emotional AI" explores human connections through the dual lenses of artificial intelligence and introspection. Drawing from observations during challenging periods of his life, Cavada identifies patterns that, when connected, form a coherent and relevant framework. He hypothesizes that this framework, combined with inherent human attributes, can address the increasing disconnections in human bonding. Having experienced this crisis himself, Cavada is now dedicated to improving relationships by helping individuals reconnect with their innate ability to balance emotions, leading to clarity of mind, self-awareness, broader insights, and deeper introspection. His explorative work has culminated in a theory "The 3 Constants of Human Connection," forms the basis of the book which outlines the fundamental elements governing human interactions and relationships.
+Authored by M.O. Cavada, the soon-to-be-published book “Emotional AI” explores human connections through the dual lenses of artificial intelligence and introspection. Drawing from observations during challenging periods of his life, Cavada identifies patterns that, when connected, form a coherent and can be process through a single framework. He hypothesizes that this framework, combined with inherent human attributes or constants, can address the increasing disconnections in human bonding. Having experienced this crisis himself, Cavada is now dedicated to improving relationships by helping individuals reconnect with their innate ability to balance emotions, leading to clarity of mind, self-awareness, broader insights, and deeper introspection. His explorative work has culminated in a theory “The 3 Constants of Human Connection,” forms the basis of the book which outlines the fundamental elements governing human interactions and relationships. 
 
 The book premise aligns with the goal to create an introspective guide and integrated with AI's latest capabilities to support users in understanding and improving their connections.
 
@@ -19,9 +19,9 @@ These 3 constants are:
 
 1. **Change (Dynamics of Interaction)**: This constant highlights the dynamic nature of relationships, emphasizing the importance of actions (Act), reactions (React), and attractions (Attract) in shaping human connections.
 
-2. **Power (Effects we Attract)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
+2. **Power (Influence and Effect)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
 
-3. **Moments (Connecting the Past Influences)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+3. **Moments (Lifetime of Connections)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
 
 ## Purpose
 
@@ -61,7 +61,7 @@ OpenAI can be used to implement and enhance the introspection algorithm by refer
 - **React**: Generate possible reactions and interpret the sentiment and context of these reactions.
 - **Attract**: Identify key elements that drive engagement or attraction within the interaction.
 
-### 2. Power – Attracts Influence and Effects
+### 2. Power – Attraction of Influence and Effect it Causes
 
 **Algorithm Explanation**:
 
@@ -74,7 +74,7 @@ OpenAI can be used to implement and enhance the introspection algorithm by refer
 - Analyze interactions to classify them into negative, positive, or neutral categories.
 - Provide insights or feedback based on the classified interaction types to help users understand their impact.
 
-### 3. Moments – Connections of Our Lifetime
+### 3. Moments – Connecting Experiences in a Timeline
 
 **Algorithm Explanation**:
 
