@@ -9,9 +9,10 @@ Project In-development, please visit - [www.kentoverse.com](https://www.kentover
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
-Authored by MOCavada, the soon-to-be-published book “Emotional AI” explores the intricacies of human connections through the lens of artificial intelligence and introspection. The book introduces a theory based on MOCavada’s personal experiences, known as the “3 Constants of Human Connection,” which outlines fundamental elements that govern human interactions and relationships.
+Emotional AI Book and The 3 Constants of Human Connection
+Authored by M.O. Cavada, the soon-to-be-published book “Emotional AI” explores human connections through the dual lenses of artificial intelligence and introspection. Drawing from observations during challenging periods of his life, Cavada identifies patterns that, when connected, form a coherent and relevant framework. He hypothesizes that this framework, combined with inherent human attributes, can address the increasing disconnections in human bonding. Having experienced this crisis himself, Cavada is now dedicated to improving relationships by helping individuals reconnect with their innate ability to balance emotions, leading to clarity of mind, self-awareness, broader insights, and deeper introspection. His explorative work has culminated in a theory that forms the basis of the book “The 3 Constants of Human Connection,” which outlines the fundamental elements governing human interactions and relationships.
 
-The book premise aligns with the goal to create an introspective guide and incorporate AI's latest capabilities to support users in understanding and improving their connections.
+The book premise aligns with the goal to create an introspective guide and integrated with AI's latest capabilities to support users in understanding and improving their connections.
 
 **Important Note: Emotional AI stands for Emotional Authentic Intelligence. We are not building an AI that mimics human emotions, which is impossible. Instead, our focus is on creating tools that help users introspect and understand their own emotions and interactions authentically.**
 
