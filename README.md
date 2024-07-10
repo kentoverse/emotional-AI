@@ -11,8 +11,7 @@ The "Emotional AI" project aims to create a comprehensive platform for introspec
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
-
-Authored by M.O. Cavada, the soon-to-be-published book “Emotional AI” explores human connections through the dual lenses of artificial intelligence and introspection. Drawing from observations during challenging periods of his life, Cavada identifies patterns that, when connected, form a coherent framework that can be processed through a single system, like a random question passing through a box of oracles to produce an insightful answer. He hypothesizes that this framework, combined with inherent human attributes or constants, can address the increasing disconnections in human bonding. Having experienced this crisis himself, Cavada is now dedicated to improving relationships by helping individuals reconnect with their innate ability to balance emotions, leading to clarity of mind, self-awareness, broader insights, and deeper introspection. His explorative work has culminated in a theory, “The 3 Constants of Human Connection,” which forms the basis of the book and outlines the fundamental elements governing human interactions and relationships.
+Authored by M.O. Cavada, the soon-to-be-published book "Emotional AI" explores human connections through the dual lenses of artificial intelligence and introspection. Drawing from observations during challenging periods of his life, Cavada identifies patterns that, when connected, form a coherent framework that can be processed through a single system, like a random question passing through a box of oracles to produce an insightful answer. He hypothesizes that this framework, combined with inherent human attributes or constants, can address the increasing disconnections in human bonding. Having experienced this crisis himself, Cavada is now dedicated to improving relationships by helping individuals reconnect with their innate ability to balance emotions, leading to clarity of mind, self-awareness, broader insights, and deeper introspection. His explorative work has culminated in a theory, "The 3 Constants of Human Connection," which forms the basis of the book and outlines the fundamental elements governing human interactions and relationships.
 
 The book premise aligns with the goal to create an introspective guide and integrated with AI's latest capabilities to support users in understanding and improving their connections.
 
@@ -22,9 +21,10 @@ These 3 constants are:
 
 1. **Change (Dynamics of Interaction)**: This constant highlights the dynamic nature of relationships, emphasizing the importance of actions (Act), reactions (React), and attractions (Attract) in shaping human connections.
 
-2. **Power (Influence and Effect)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
+2. **Power (Influence and Effect from Interactions)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
 
-3. **Moments (Lifetime of Connections)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+3. **Moments (Timeline Connections of Influence and Effect)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+
 
 ## Purpose
 
