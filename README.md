@@ -189,6 +189,7 @@ emotional-AI/
 │   └── ...
 └── docker-compose.yml
 
+```
 ## Future Components
 
 ### 1. Public Web App
@@ -199,6 +200,7 @@ emotional-AI/
 
 ### 2. Mobile App
    - A cross-platform mobile app will be developed using frameworks such as React Native or Flutter, ensuring optimized mobile experiences for public users.
+
 
 
 
