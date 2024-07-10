@@ -5,7 +5,8 @@ by MOCavada
 
 The "Emotional AI" project aims to create a comprehensive platform for introspection and emotional analysis. The project is structured to serve multiple purposes, including acting as an API server, providing an admin UI for data management and analysis, and planning for future expansion to include a cross-platform mobile version for public users.
 
-Project In-development, please visit - [www.kentoverse.com](https://www.kentoverse.com).
+In-development App Prototype: - [Emotional-AI](https://www.kentoverse.com)
+Working UseCase Studies:  - [Research](https://www.kentoverse.com](https://medium.com/@motato_42768/e-a-i-24014e13a592)
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
