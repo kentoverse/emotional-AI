@@ -198,9 +198,13 @@ emotional-AI/
 - Connect the web app to the backend API for data and user interactions.
 - A future project will be initiated for the public-facing web app, utilizing UI libraries like Tailwind CSS or `schadcdn/ui` to design the user interface.
 - Web Based Component Architecture: a framework for building applications using reusable components. Each component is encapsulated with well-defined functionality, typically stored in a library, and can be integrated into an application without affecting other components. This approach allows for modular development, making it easier to manage and distribute features across different platforms, including web and mobile applications. [More Details](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+- Anothe option to consider is the Micro Frontend Architecture with Module Federation to manage dependencies. 
 
 ### 2. Mobile App (User)
    - A cross-platform mobile app will be developed using frameworks such as React Native or Flutter, ensuring optimized mobile experiences for public users.
+
+* Test UI Prototype: - [MaaP](https://www.maap.com)
+
 
 
 
