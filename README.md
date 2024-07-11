@@ -106,7 +106,7 @@ OpenAI can be used to implement and enhance the introspection algorithm by refer
    - **Moments**: It helps the user connect the interaction to past experiences, present awareness, and future possibilities.
 3. **Output**: The model generates an introspective response, helping the user understand their actions and emotions better.
 
-By combining IBM InspectorRAGet for robust data analysis and OpenAI for dynamic user interaction and introspection, you can create a powerful and comprehensive Emotional AI platform that provides meaningful insights and guidance to users. This synergy ensures that the strengths of both platforms are utilized to their fullest potential, without conflict.
+By combining IBM InspectorRAGet for robust data analysis and OpenAI for dynamic user interaction and introspection, we aim to create a powerful and comprehensive Emotional AI platform that provides meaningful insights and guidance to users. This is a possibility we are soon to explore. We hope to learn how to synergize the strengths of both platforms, utilizing them to their fullest potential and addressing any issues that arise.
 
 
 
