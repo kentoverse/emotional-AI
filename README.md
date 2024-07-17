@@ -226,6 +226,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+```
 ## Benefits
 
 - **Separation of Concerns:** Keeping the admin UI and the public-facing UI separate allows for tailored interfaces for each audience without unnecessary complexity.
