@@ -5,10 +5,10 @@
 
 
 
-# Team Contacts :
-<MO Cavada cavadamarc@gmail.com> - CTO & System Design Architect
-<Marcus James Banogon marc@gmail.com> - Project and Development Lead
+# Cyberspace Philippines Team:
 
+<a href="mailto:cavadamarc@gmail.com">MO Cavada</a>, Project and Development Lead
+<a href="mailto:marc@gmail.com">Marcus James Banogon</a>, CTO & System Design Architect
 
 ## Overview
 
