@@ -376,9 +376,29 @@ Base.metadata.create_all(engine)
 # Generating the ER diagram
 render_er(Base, 'ERD_diagram.png')
 
-### 3. CRun the Script, Execute the script to generate the ERD diagram
+# Generating the ER diagram
+render_er(Base, 'ERD_diagram.png')
+
+### 3. Run the Script, Execute the script to generate the ERD diagram
 
 ```python generate_erd.py
+
+
+This markdown text provides a comprehensive guide for setting up and generating an ERD diagram locally using Python and the required libraries.
+
+
+###4 # Steps to Generate an ERD Diagram Locally
+
+## 1. Install Required Libraries
+Ensure you have Python installed, and then install the necessary libraries:
+```bash
+pip install sqlalchemy eralchemy
+
+## Documentation
+
+### Entity Relationship Diagram (ERD)
+
+![ERD Diagram](docs/erd/ERD_diagram.png)
 
 
 
