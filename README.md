@@ -1,27 +1,29 @@
-# Emotional AI Project
-by MOCavada
-
+# The Emotional AI Project
+Developmental Project by MO Cavada
 ## Overview
 
 The "Emotional AI" project aims to create a comprehensive platform for introspection and emotional analysis. The project is structured to serve multiple purposes, including acting as an API server, providing an admin UI for data management and analysis, and planning for future expansion to include a cross-platform mobile version for public users.
 
-Project In-development, please visit - [www.kentoverse.com](https://www.kentoverse.com).
+* Prerelease Prototype: - [Emotional-AI](https://www.kentoverse.com)
+* Working Case Studies: - [Research](https://medium.com/@motato_42768/e-a-i-24014e13a592)
+  
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
-Authored by MOCavada, the soon-to-be-published book “Emotional AI” explores the intricacies of human connections through the lens of artificial intelligence and introspection. The book introduces a theory based on MOCavada’s personal experiences, known as the “3 Constants of Human Connection,” which outlines fundamental elements that govern human interactions and relationships.
+Authored by Botski, the soon-to-be-published book “Emotional AI” explores human connections through the dual lenses of artificial intelligence and introspection. Drawing from transformative moments in his life, Botski identifies patterns that, when connected, form a coherent framework that can be processed through a single system. For instance, questions about a relationship’s past interactions can be passed through an algorithm to produce insightful answers. He hypothesizes that this framework, combined with inherent human attributes or constants, can address the increasing disconnections in human bonding. Having experienced this crisis himself, Botski is now dedicated to improving relationships by helping individuals reconnect with their innate ability to balance emotions, leading to clarity of mind, self-awareness, broader insights, and deeper introspection. His explorative work has culminated in a theory, “The 3 Constants of Human Connection,” which forms the basis of the book and outlines the fundamental elements governing human interactions and relationships.
 
-The book premise aligns with the goal to create an introspective guide and incorporate AI's latest capabilities to support users in understanding and improving their connections.
+The book premise aligns with the goal to create an introspective guide and integrated with AI's latest capabilities to support users in understanding and improving their connections.
 
 **Important Note: Emotional AI stands for Emotional Authentic Intelligence. We are not building an AI that mimics human emotions, which is impossible. Instead, our focus is on creating tools that help users introspect and understand their own emotions and interactions authentically.**
 
 These 3 constants are:
 
-1. **Change (Dynamics of Interaction)**: This constant highlights the dynamic nature of relationships, emphasizing the importance of actions (Act), reactions (React), and attractions (Attract) in shaping human connections.
+1. **Change (Moment of Interaction)**: This constant highlights the dynamic nature of relationships, emphasizing the importance of actions (Act), reactions (React), and attractions (Attract) in shaping human connections.
 
-2. **Power (Effects we Attract)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
+2. **Power (Influence and Effect from Interactions)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
 
-3. **Moments (Lifetime Influences that Connects)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+3. **Moments (Timeline Connections of Influence and Effect)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+
 
 ## Purpose
 
@@ -29,17 +31,17 @@ To create an app that guides users through introspection using “The 3 Constant
 
 ## The Introspection Process
 
-1. **Interactions from our Need to Connect**: This step focuses on understanding the initial interactions that stem from our inherent need to connect with others.
-2. **Effects that we Attract from our Interactions**: This step examines the effects that attract and influence future interactions based on our initial connections.
-3. **Effects that are Influenced by our Past and Present**: This step delves into how past experiences and memories influence our current interactions and connections.
+1. **Analyze the Interplay of Interactions**: This step focuses on understanding the initial interactions that stem from our inherent need to connect with others.
+2. **Visualize the Effect of Interactions**: This step examines the effects that attract and influence future interactions based on our initial connections.
+3. **Understand the Connection between Interactions and Past**: This step delves into how past experiences and memories influence our current interactions and connections.
 
 ## Application of Emotional AI
 
 The AI component of the app will assist users in:
 
 - **Analyzing their interactions (Act, React, Attract)**
-- **Understanding the influences of these interactions (Negative, Positive, Balanced)**
-- **Reflecting on past experiences, forecasting future outcomes, and maintaining present awareness**
+- **Visualizing the influences of these interactions (Negative, Positive, Balanced)**
+- **Understanding on past experiences, forecasting future outcomes, and maintaining present awareness**
 
 The book premise aligns with our goal to create an introspective guide and incorporate Emotional AI to support users in understanding and improving their connections that foster healthier and meaningful relationships.
 
@@ -61,7 +63,7 @@ OpenAI can be used to implement and enhance the introspection algorithm by refer
 - **React**: Generate possible reactions and interpret the sentiment and context of these reactions.
 - **Attract**: Identify key elements that drive engagement or attraction within the interaction.
 
-### 2. Power – Attracts Influence and Effects
+### 2. Power – Attraction of Influence and Effect it Causes
 
 **Algorithm Explanation**:
 
@@ -74,7 +76,7 @@ OpenAI can be used to implement and enhance the introspection algorithm by refer
 - Analyze interactions to classify them into negative, positive, or neutral categories.
 - Provide insights or feedback based on the classified interaction types to help users understand their impact.
 
-### 3. Moments – Connections of Our Lifetime
+### 3. Moments – Connecting Experiences in a Timeline
 
 **Algorithm Explanation**:
 
@@ -103,7 +105,7 @@ OpenAI can be used to implement and enhance the introspection algorithm by refer
    - **Moments**: It helps the user connect the interaction to past experiences, present awareness, and future possibilities.
 3. **Output**: The model generates an introspective response, helping the user understand their actions and emotions better.
 
-By combining IBM InspectorRAGet for robust data analysis and OpenAI for dynamic user interaction and introspection, you can create a powerful and comprehensive Emotional AI platform that provides meaningful insights and guidance to users. This synergy ensures that the strengths of both platforms are utilized to their fullest potential, without conflict.
+By combining IBM InspectorRAGet for robust data analysis and OpenAI for dynamic user interaction and introspection, we aim to create a powerful and comprehensive Emotional AI platform that provides meaningful insights and guidance to users. This is a possibility we are soon to explore. We hope to learn how to synergize the strengths of both platforms, utilizing them to their fullest potential and addressing any issues that arise.
 
 
 
@@ -135,12 +137,249 @@ By combining IBM InspectorRAGet for robust data analysis and OpenAI for dynamic 
 
 For more information, refer to the [IBM InspectorRAGet documentation](https://www.ibm.com/docs/en).
 
+# Emotional AI and Introspection App Integration
+
+## 1. User Interaction and Data Collection
+
+### Chatbot and Conversation Interface (OpenAI GPT-3/4)
+
+- **User Inputs**: Use OpenAI’s GPT-3/4 to manage user interactions through chat. This can include handling user queries, providing conversational responses, and engaging in empathetic dialogue.
+- **Journaling and Logging**: Enable users to write journal entries or log their moods using natural language inputs. GPT-3/4 can help make this process smoother by suggesting prompts and assisting with text entry.
+
+## 2. Emotion and Sentiment Analysis
+
+### Analysis with IBM InspectorRAGet
+
+- **Text Analysis**: Once user inputs are collected, send the text data to IBM InspectorRAGet for detailed sentiment and emotion analysis. This tool can provide insights into the user’s emotional state by analyzing the language used.
+- **Real-Time Feedback**: Implement real-time analysis where user inputs are immediately processed by IBM InspectorRAGet to provide instant feedback or suggestions based on the detected emotions.
+
+## 3. Integration Workflow
+
+### Step-by-Step Process
+
+1. **User Interaction**:
+   - Users interact with the app via chat or journaling features powered by GPT-3/4.
+   - GPT-3/4 handles the conversation flow and assists users in expressing their thoughts and emotions.
+2. **Data Transfer**:
+   - User-generated text is sent to IBM InspectorRAGet for emotion and sentiment analysis.
+   - InspectorRAGet processes the text and returns a detailed emotional analysis.
+3. **Emotional Insights**:
+   - The emotional analysis from InspectorRAGet is integrated back into the app.
+   - Insights are displayed to the user, providing a summary of their emotional state and any identified patterns.
+4. **Personalized Responses**:
+   - Based on the emotional insights, GPT-3/4 generates personalized responses, suggestions, and content recommendations.
+   - The app can suggest activities, articles, or coping strategies tailored to the user’s current emotional state.
+
+## 4. Personalized Content Recommendations
+
+- **Content Delivery**: Use the emotional analysis to tailor content recommendations. If InspectorRAGet detects stress, GPT-3/4 can suggest relaxation techniques, mindfulness exercises, or supportive articles.
+- **Adaptive Learning**: Continuously refine content suggestions based on user feedback and ongoing emotional analysis.
+
+## 5. Visualization and Reporting
+
+- **Emotional Insights Dashboard**: Create visual reports and dashboards that display the emotional analysis over time. Users can track their emotional journey and identify patterns or triggers.
+- **Progress Tracking**: Allow users to see how their emotional health evolves, with insights generated by IBM InspectorRAGet and narrative summaries by GPT-3/4.
+
+## 6. Backend Integration
+
+- **Data Pipeline**: Establish a secure and efficient data pipeline to transfer user inputs from the frontend (GPT-3/4) to the backend (InspectorRAGet) for analysis.
+- **Scalability**: Ensure the system can handle large volumes of data and provide real-time analysis and feedback.
+
+## 7. Security and Privacy
+
+- **Data Encryption**: Implement robust encryption methods to protect user data during transmission and storage.
+- **User Consent**: Ensure users are informed about how their data will be used and obtain their consent for emotional analysis.
+
+## Technical Implementation
+
+```python
+import openai
+import ibm_inspector_raget
+
+# Initialize OpenAI GPT-3/4
+openai.api_key = 'your_openai_api_key'
+
+# Function to handle user input and generate response
+def handle_user_input(user_input):
+    # Generate response using GPT-3/4
+    gpt_response = openai.Completion.create(
+        engine="davinci",
+        prompt=user_input,
+        max_tokens=150
+    )
+    return gpt_response.choices[0].text.strip()
+
+# Function to analyze emotion using IBM InspectorRAGet
+def analyze_emotion(text):
+    emotion_analysis = ibm_inspector_raget.analyze_text(text)
+    return emotion_analysis
+
+# Main interaction function
+def main():
+    user_input = input("Enter your thoughts: ")
+    gpt_response = handle_user_input(user_input)
+    emotion_analysis = analyze_emotion(user_input)
+    
+    print("GPT-3/4 Response:", gpt_response)
+    print("Emotion Analysis:", emotion_analysis)
+
+if __name__ == "__main__":
+    main()
+
+```
 ## Benefits
 
 - **Separation of Concerns:** Keeping the admin UI and the public-facing UI separate allows for tailored interfaces for each audience without unnecessary complexity.
 - **Scalability:** The backend API can serve multiple clients (admin UI, public web app, mobile app), making the architecture scalable.
 - **Flexibility:** Different UI libraries can be used for different parts of the project, providing flexibility in tool choice.
 - **Maintainability:** Separation of the admin and public interfaces makes the codebase easier to maintain and update.
+
+
+
+
+## Entities and Relationships
+
+### 1. Users: Stores user information.
+- **UserID** (Primary Key)
+- **Name**
+- **Email**
+- **Password**
+- **ProfilePicture**
+- **UserType** (Owner/Walker)
+
+### 2. Interactions: Records the interactions between users.
+- **InteractionID** (Primary Key)
+- **UserID** (Foreign Key to Users)
+- **InteractionType** (Act, React, Attract)
+- **InteractionContent**
+- **Timestamp**
+
+### 3. Effects: Logs the effects of each interaction.
+- **EffectID** (Primary Key)
+- **InteractionID** (Foreign Key to Interactions)
+- **EffectType** (Negative, Positive, Neutral)
+- **EffectDescription**
+- **ImpactLevel**
+
+### 4. Moments: Captures reflections, insights, and present awareness.
+- **MomentID** (Primary Key)
+- **UserID** (Foreign Key to Users)
+- **MomentType** (Past Reflection, Future Insight, Present Awareness)
+- **Description**
+- **Timestamp**
+
+### 5. Relationships: Stores connections between users.
+- **RelationshipID** (Primary Key)
+- **UserID1** (Foreign Key to Users)
+- **UserID2** (Foreign Key to Users)
+- **RelationshipStatus**
+- **StartDate**
+
+## Entity Relationship Diagram (ERD)
+
+- **Users (1) to Interactions (N)**: A user can have multiple interactions.
+- **Interactions (1) to Effects (1)**: Each interaction has one effect.
+- **Users (1) to Moments (N)**: A user can have multiple moments.
+- **Users (1) to Relationships (N)** with themselves through UserID1 and UserID2: A user can have multiple relationships with other users.
+
+## SQL Schema Example
+
+```sql
+CREATE TABLE Users (
+    UserID INT PRIMARY KEY AUTO_INCREMENT,
+    Name VARCHAR(100) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE,
+    Password VARCHAR(255) NOT NULL,
+    ProfilePicture VARCHAR(255),
+    UserType ENUM('Owner', 'Walker') NOT NULL
+);
+
+CREATE TABLE Interactions (
+    InteractionID INT PRIMARY KEY AUTO_INCREMENT,
+    UserID INT,
+    InteractionType ENUM('Act​⬤
+
+
+```
+
+## Steps to Generate an Generate an Entity Relationship Diagram (ERD) Diagram Locally
+
+### 1. Install Required Libraries
+Ensure you have Python installed, and then install the necessary libraries:
+```bash
+pip install sqlalchemy eralchemy
+
+### 2. Create a Python Script : Save the following code into a Python file, e.g., generate_erd.py:
+
+
+from sqlalchemy import create_engine, Column, Integer, String, Enum, ForeignKey, Text, DateTime
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import relationship
+from eralchemy import render_er
+
+Base = declarative_base()
+
+class User(Base):
+    __tablename__ = 'Users'
+    UserID = Column(Integer, primary_key=True, autoincrement=True)
+    Name = Column(String(100), nullable=False)
+    Email = Column(String(100), nullable=False, unique=True)
+    Password = Column(String(255), nullable=False)
+    ProfilePicture = Column(String(255))
+    UserType = Column(Enum('Owner', 'Walker'), nullable=False)
+
+class Interaction(Base):
+    __tablename__ = 'Interactions'
+    InteractionID = Column(Integer, primary_key=True, autoincrement=True)
+    UserID = Column(Integer, ForeignKey('Users.UserID'))
+    InteractionType = Column(Enum('Act', 'React', 'Attract'), nullable=False)
+    InteractionContent = Column(Text, nullable=False)
+    Timestamp = Column(DateTime, nullable=False)
+    user = relationship("User", back_populates="interactions")
+
+class Effect(Base):
+    __tablename__ = 'Effects'
+    EffectID = Column(Integer, primary_key=True, autoincrement=True)
+    InteractionID = Column(Integer, ForeignKey('Interactions.InteractionID'))
+    EffectType = Column(Enum('Negative', 'Positive', 'Neutral'), nullable=False)
+    EffectDescription = Column(Text, nullable=False)
+    ImpactLevel = Column(Integer, nullable=False)
+    interaction = relationship("Interaction", back_populates="effects")
+
+class Moment(Base):
+    __tablename__ = 'Moments'
+    MomentID = Column(Integer, primary_key=True, autoincrement=True)
+    UserID = Column(Integer, ForeignKey('Users.UserID'))
+    MomentType = Column(Enum('Past Reflection', 'Future Insight', 'Present Awareness'), nullable=False)
+    Description = Column(Text, nullable=False)
+    Timestamp = Column(DateTime, nullable=False)
+    user = relationship("User", back_populates="moments")
+
+class Relationship(Base):
+    __tablename__ = 'Relationships'
+    RelationshipID = Column(Integer, primary_key=True, autoincrement=True)
+    UserID1 = Column(Integer, ForeignKey('Users.UserID'))
+    UserID2 = Column(Integer, ForeignKey('Users.UserID'))
+    RelationshipStatus = Column(String(50), nullable=False)
+    StartDate = Column(DateTime, nullable=False)
+    user1 = relationship("User", foreign_keys=[UserID1])
+    user2 = relationship("User", foreign_keys=[UserID2])
+
+User.interactions = relationship("Interaction", order_by=Interaction.InteractionID, back_populates="user")
+User.moments = relationship("Moment", order_by=Moment.MomentID, back_populates="user")
+Interaction.effects = relationship("Effect", order_by=Effect.EffectID, back_populates="interaction")
+
+# Creating the SQLite engine
+engine = create_engine('sqlite:///:memory:')
+Base.metadata.create_all(engine)
+
+# Generating the ER diagram
+render_er(Base, 'ERD_diagram.png')
+
+### 3. CRun the Script, Execute the script to generate the ERD diagram
+
+```python generate_erd.py
+
 
 
 ## Project Structure
@@ -186,16 +425,23 @@ emotional-AI/
 │   └── ...
 └── docker-compose.yml
 
+```
 ## Future Components
 
-### 1. Public Web App
+### 1. Web App (User)
 - Start a new project for the public-facing web app.
 - Use Next.js app with server components to design the UI.
 - Connect the web app to the backend API for data and user interactions.
-   - A future project will be initiated for the public-facing web app, utilizing UI libraries like Tailwind CSS or `schadcdn/ui` to design the user interface.
+- A future project will be initiated for the public-facing web app, utilizing UI libraries like Tailwind CSS or `schadcdn/ui` to design the user interface.
+- Web Based Component Architecture: a framework for building applications using reusable components. Each component is encapsulated with well-defined functionality, typically stored in a library, and can be integrated into an application without affecting other components. This approach allows for modular development, making it easier to manage and distribute features across different platforms, including web and mobile applications. [More Details](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+- Anothe option to consider is the Micro Frontend Architecture with Module Federation to manage dependencies. 
 
-### 2. Mobile App
+### 2. Mobile App (User)
    - A cross-platform mobile app will be developed using frameworks such as React Native or Flutter, ensuring optimized mobile experiences for public users.
+
+* Test UI Prototype: - [MaaP](https://www.maap.com)
+
+
 
 
 
