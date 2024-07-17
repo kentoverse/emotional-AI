@@ -235,6 +235,73 @@ if __name__ == "__main__":
 - **Maintainability:** Separation of the admin and public interfaces makes the codebase easier to maintain and update.
 
 
+
+
+## Entities and Relationships
+
+### 1. Users: Stores user information.
+- **UserID** (Primary Key)
+- **Name**
+- **Email**
+- **Password**
+- **ProfilePicture**
+- **UserType** (Owner/Walker)
+
+### 2. Interactions: Records the interactions between users.
+- **InteractionID** (Primary Key)
+- **UserID** (Foreign Key to Users)
+- **InteractionType** (Act, React, Attract)
+- **InteractionContent**
+- **Timestamp**
+
+### 3. Effects: Logs the effects of each interaction.
+- **EffectID** (Primary Key)
+- **InteractionID** (Foreign Key to Interactions)
+- **EffectType** (Negative, Positive, Neutral)
+- **EffectDescription**
+- **ImpactLevel**
+
+### 4. Moments: Captures reflections, insights, and present awareness.
+- **MomentID** (Primary Key)
+- **UserID** (Foreign Key to Users)
+- **MomentType** (Past Reflection, Future Insight, Present Awareness)
+- **Description**
+- **Timestamp**
+
+### 5. Relationships: Stores connections between users.
+- **RelationshipID** (Primary Key)
+- **UserID1** (Foreign Key to Users)
+- **UserID2** (Foreign Key to Users)
+- **RelationshipStatus**
+- **StartDate**
+
+## Entity Relationship Diagram (ERD)
+
+- **Users (1) to Interactions (N)**: A user can have multiple interactions.
+- **Interactions (1) to Effects (1)**: Each interaction has one effect.
+- **Users (1) to Moments (N)**: A user can have multiple moments.
+- **Users (1) to Relationships (N)** with themselves through UserID1 and UserID2: A user can have multiple relationships with other users.
+
+## SQL Schema Example
+
+```sql
+CREATE TABLE Users (
+    UserID INT PRIMARY KEY AUTO_INCREMENT,
+    Name VARCHAR(100) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE,
+    Password VARCHAR(255) NOT NULL,
+    ProfilePicture VARCHAR(255),
+    UserType ENUM('Owner', 'Walker') NOT NULL
+);
+
+CREATE TABLE Interactions (
+    InteractionID INT PRIMARY KEY AUTO_INCREMENT,
+    UserID INT,
+    InteractionType ENUM('Act​⬤
+
+
+```
+
 ## Project Structure
 
 ### Current Components
