@@ -377,9 +377,9 @@ Base.metadata.create_all(engine)
 render_er(Base, 'ERD_diagram.png')
 
 ### 3. CRun the Script, Execute the script to generate the ERD diagram
-```
-python generate_erd.py
-```
+
+```python generate_erd.py
+
 
 
 ## Project Structure
