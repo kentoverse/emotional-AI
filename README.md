@@ -6,7 +6,79 @@ The "Emotional AI" project aims to create a comprehensive platform for introspec
 
 * Prerelease Prototype: - [Emotional-AI](https://www.kentoverse.com)
 * Working Case Studies: - [Research](https://medium.com/@motato_42768/e-a-i-24014e13a592)
-  
+
+  # Emotional AI App: Three Stack Architecture
+
+## 1. Client Stack: Introspective Chat Interface
+
+### Technology
+- Next.js
+
+### Purpose
+Frontend for users to interact with the Emotional AI chat.
+
+### Components
+- **Introspective Chat Interface**: A user-friendly chat interface where users can communicate with the AI.
+- **User Authentication**: Integrated using Auth0 or Firebase Auth for secure access.
+- **State Management**: Using Redux or Context API for managing chat states and user sessions.
+
+## 2. Middle Stack: Chat Support Service & API Server
+
+### Technology
+- InspectorRAGet (Python)
+- OpenAI
+- Next.js as API Server
+
+### Purpose
+Backend services for handling chat logic, API requests, and AI processing.
+
+### Components
+- **Chat Support Service (InspectorRAGet)**:
+  - **Natural Language Processing**: Using OpenAI's API for understanding and generating responses.
+  - **Message Routing**: Directing user inputs to the appropriate AI modules.
+- **API Server (Next.js)**:
+  - **API Endpoints**: RESTful or GraphQL endpoints for client communication.
+  - **Business Logic**: Handling requests, processing data, and managing sessions.
+  - **WebSockets/SSE**: For real-time communication between the client and server.
+- **Data Processing**: Analysis of chat data for improving AI responses.
+
+## 3. Serverless Stack: Serverless and Data Storage
+
+### Technology
+- AWS Amplify or Google Cloud Platform (GCP)
+
+### Purpose
+Scalable and cost-efficient cloud infrastructure for serverless functions and data storage.
+
+### Components
+- **Serverless Functions**:
+  - **AWS Lambda / Google Cloud Functions**: For executing backend logic without managing servers.
+  - **Event-Driven Architecture**: Trigger functions based on specific events (e.g., new chat message).
+- **Data Storage**:
+  - **NoSQL Database**: AWS DynamoDB or Google Firestore for storing user sessions and chat logs.
+  - **Object Storage**: AWS S3 or Google Cloud Storage for storing media files and other large assets.
+- **API Gateway**: AWS API Gateway or Google API Gateway for managing and routing API requests.
+- **CI/CD Pipeline**: Using AWS CodePipeline or Google Cloud Build for continuous integration and deployment.
+
+## Detailed Workflow
+
+1. **Client Interaction**:
+   - User interacts with the chat interface built with Next.js.
+   - User inputs are sent to the API Server using REST or GraphQL.
+
+2. **Backend Processing**:
+   - API Server (Next.js) processes the requests and forwards them to the Chat Support Service (InspectorRAGet).
+   - InspectorRAGet utilizes OpenAI to generate responses based on user inputs.
+
+3. **Real-time Communication**:
+   - Responses are sent back to the client in real-time using WebSockets or Server-Sent Events.
+
+4. **Data Handling**:
+   - Chat logs and user data are stored in a NoSQL database (DynamoDB/Firestore).
+   - Media files are stored in an object storage service (S3/Cloud Storage).
+
+5. **Scalability and Maintenance**:
+   - Serverless functions handle backend processing without the need for
 
 ## Emotional AI Book and The 3 Constants of Human Connection
 
@@ -22,7 +94,7 @@ These 3 constants are:
 
 2. **Power (Influence and Effect from Interactions)**: This constant delves into the forms of power that influence relationships, including negative/destructive power, positive/creative power, and neutral/equilibrium. Understanding these forces helps in navigating the complexities of emotional interactions.
 
-3. **Moments (Timeline Connections of Influence and Effect)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and connections.
+3. **Moments (Timeline Connections of Influence and Effect)**: This constant focuses on the temporal aspects of relationships, stressing the significance of past reflections, future insights, and present awareness. By introspecting on these moments, individuals can gain deeper insights into their interactions and
 
 
 ## Purpose
