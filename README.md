@@ -3,10 +3,13 @@
 
 
 
-CTO & System Infrastructure Architect - Marc James Banogon marc@cyberspace.ph
 
-Developmental Project - Lead MO Cavada cavadamarc@gmail.com
-marc@cyberspace.ph
+
+# Team Contacts :
+<MO Cavada cavadamarc@gmail.com> - CTO & System Design Architect
+<Marcus James Banogon marc@gmail.com> - Project and Development Lead
+
+
 ## Overview
 
 The "Emotional AI" project aims to create a comprehensive platform for introspection and emotional analysis. The project is structured to serve multiple purposes, including acting as an API server, providing an admin UI for data management and analysis, and planning for future expansion to include a cross-platform mobile version for public users.
