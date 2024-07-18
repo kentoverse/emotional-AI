@@ -1,8 +1,8 @@
 # The Emotional AI Project
 ### Powered by Cyberspace Philippines:
 
-<a href="mailto:cavadamarc@gmail.com">MO Cavada</a>, Project and Development Lead
-<a href="mailto:marc@gmail.com">Marcus James Banogon</a>, CTO & System Design Architect
+Lean More About the Project, Send us an Email : <a href="mailto:cavadamarc@gmail.com">MO Cavada</a>, Project and Development Lead
+<a href="mailto:marc@gmail.com">Marcus James Banogon</a>, CTO & System Design Architect 
 
 ## Overview
 
